@@ -1,0 +1,11 @@
+# Local runtime & sensitive files (never commit)
+.env
+.env.*
+data/
+chrome_profiles/
+secrets.yaml
+*.log
+*.log.txt
+bootstrap_config.json
+.DS_Store
+Thumbs.db
