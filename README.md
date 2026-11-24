@@ -10,6 +10,13 @@
 >
 > **GGSP (Gemini Goose Studio Proxy)** is a blazing-fast, single-executable **Rust + Tauri v2** desktop studio that turns your existing Gemini Web session into a rock-solid, local **OpenAI-compatible Agentic API (`http://127.0.0.1:8000/v1`)** — with **full tool-calling, native 4K Vision, live quota tracking, and 1-click Goose Desktop + Mobile Web/Tailscale orchestration.**
 
+<p align="center">
+  <img src="assets/dashboard-preview.png" alt="GGSP Dashboard & Quota Preview" width="100%" />
+</p>
+<p align="center">
+  <em>Live Dashboard: Dual-tier CDP WebChannel transport, real-time 5-hour &amp; weekly quota telemetry, redacted activity feed, and 1-click Goose Desktop + Web QR Bridge.</em>
+</p>
+
 ---
 
 ## ⚡ Why GGSP?
